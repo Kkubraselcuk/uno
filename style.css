@@ -1,0 +1,11 @@
+#seviyeAlani{
+    width: 100%;
+    text-align: center;
+}
+.seviyeBtn{
+    text-align: center;
+    width: 80%;
+    height: 70px;
+    font-size:35px;
+    margin-top: 50px;
+}
