@@ -1,6 +1,8 @@
 #seviyeAlani{
+    padding-top: 50px;
     width: 100%;
     text-align: center;
+    color: #361a00;
 }
 .seviyeBtn{
     text-align: center;
@@ -8,4 +10,11 @@
     height: 70px;
     font-size:35px;
     margin-top: 50px;
+    background-color: #b69c83;
+    color: #361a00;
+    border-radius: 10px;
+    border-color: #361a00;
+}
+h1{
+    font-size: 55px;
 }
